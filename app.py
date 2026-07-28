@@ -85,7 +85,7 @@ Technology:
 # ---------------- HEADER ----------------
 st.markdown("<div class='main-title'>🎓 Student Performance Prediction</div>", unsafe_allow_html=True)
 
-st.markdown("<div class='sub-title'>Artificial Intelligence & Machine Learning Project</div>", unsafe_allow_html=True)
+st.markdown("<div class='sub-title'>Artificial Intelligence </div>", unsafe_allow_html=True)
 
 st.write("")
 
@@ -161,10 +161,7 @@ st.markdown(
 ### 👨‍💻 Developed By
 
 **Santosh Singh**
-
-B.Tech (AI & DS)
-
-Machine Learning Mini Project
+Artificial Intelligence Mini Project
 
 </center>
 """,
