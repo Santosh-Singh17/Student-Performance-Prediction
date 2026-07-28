@@ -161,6 +161,7 @@ st.markdown(
 ### 👨‍💻 Developed By
 
 **Santosh Singh**
+
 Artificial Intelligence Mini Project
 
 </center>
