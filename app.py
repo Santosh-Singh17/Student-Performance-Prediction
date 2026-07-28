@@ -85,7 +85,7 @@ Technology:
 # ---------------- HEADER ----------------
 st.markdown("<div class='main-title'>🎓 Student Performance Prediction</div>", unsafe_allow_html=True)
 
-st.markdown("<div class='sub-title'>Artificial Intelligence </div>", unsafe_allow_html=True)
+st.markdown("<div class='sub-title'>Artificial Intelligence Project </div>", unsafe_allow_html=True)
 
 st.write("")
 
