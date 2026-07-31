@@ -124,7 +124,7 @@ https://student-performance-prediction-raxxy5n34ozequn3cfjtoq.streamlit.app/
 
 **Santosh Singh**
 
-B.Tech – Computer Science & Engineering (AI & DS)
+B.Tech – Computer Science & Engineering
 
 Machine Learning Mini Project
 
